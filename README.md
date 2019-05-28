@@ -7,4 +7,5 @@ Para compilar o Vector, é necessário que o CMake e o GTest esteja instalado na
 
 ## Autores
 Janeto Erick da Costa Lima <janetoerick18@gmail.com>
+
 Júlio César da Costa Morais <juliocsarr10@gmail.com>
